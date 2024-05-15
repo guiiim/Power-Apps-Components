@@ -14,7 +14,7 @@
 Everytime you set the variable with those attibutes the toast will appear with the message.
 <br>For the error messages, is necessary to click on the top icon to close it.
 <br>The others messages, are going to be visible depending on the 'duration' value of the variable.
-
+<br><br>For any other questions, just get the .msapp file and enjoy it :)
 <h3>Hope you enjoy it!</h3>
 
 ![](https://github.com/guiiim/Power-Apps-Components/blob/main/Notification%20Toast/clip.gif)
