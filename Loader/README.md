@@ -3,12 +3,12 @@
 <br><br>
 <h2>How to Implement?</h2>
 <p>
-  Create a component;
-  Insert a button, an image and a label;
-  Configure them as the file;
-  Insert in the front of all the screens;
-  On the 'Visible' propertie of the component insert a variable;
-  Everytime the app will process something, on the first row: "Set(varLoad, true)" and in the last row: "Set(varLoad, false)".
+<br>&emsp;Create a component;
+<br>&emsp;Insert a button, an image and a label;
+<br>&emsp;Configure them as the file;
+<br>&emsp;Insert in the front of all the screens;
+<br>&emsp;On the 'Visible' propertie of the component insert a variable;
+<br>&emsp;Everytime the app will process something, on the first row: "Set(varLoad, true)" and in the last row: "Set(varLoad, false)".
 </p>
 Everytime you perform that action the loader will appear in the screen, blocking the other components until it's done.
 
