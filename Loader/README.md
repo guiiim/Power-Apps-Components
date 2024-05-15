@@ -3,7 +3,7 @@
 <br><br>
 <h2>How to Implement?</h2>
 <p>
-<br>&emsp;Create a component;
+    &emsp;Create a component;
 <br>&emsp;Insert a button, an image and a label;
 <br>&emsp;Configure them as the file;
 <br>&emsp;Insert in the front of all the screens;
